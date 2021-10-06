@@ -109,7 +109,7 @@ nav.fill ul li a {
 -----
 ### <tag id="wid">What is DENGE?</tag>
 
-DENGE is a project supported by [TUBITAK](http://tubitak.gov.tr/) as a two-year project (2020-2023) for developing better methods for addressing imbalance problems. The project is being conducted at [METU Image Lab, Dept. of Computer Eng., METU](image.ceng.metu.edu.tr). It builds on the team's experience on and extends the results of the team's previous project entitled "Object Detection in Videos with Deep Neural Networks" (funded by [TUBITAK](http://tubitak.gov.tr/) with no 117E054).
+DENGE is a project supported by [TUBITAK](http://tubitak.gov.tr/) as a two-year project (2020-2023) for developing better methods for addressing imbalance problems. The project is being conducted at [METU Image Lab, Dept. of Computer Eng., METU](https://image.ceng.metu.edu.tr). It builds on the team's experience on and extends the results of the team's previous project entitled "Object Detection in Videos with Deep Neural Networks" (funded by [TUBITAK](http://tubitak.gov.tr/) with no 117E054).
 
 | <!-- -->      | <!-- --> |
 | ------------- | -------- |
