@@ -93,7 +93,6 @@ nav.fill ul li a {
     <ul>
       <li><a class="aS" href="#wid">What is DENGE?</a></li>
       <li><a class="aS" href="#summary">Summary</a></li>
-      <li><a class="aS" href="#objectives">Objectives</a></li>
       <li><a class="aS" href="#publications">Publications</a></li>
       <li><a class="aS" href="#contact">Contact</a></li>
     </ul>
@@ -104,7 +103,7 @@ nav.fill ul li a {
 
 <p align="center">
     <img src="./visuals/dengesizlik_plot.png" width="100%">
-    Figure 1: Many problems in practice exhibit strong imbalance towards certain classes or categories, which can severely impact learning performance. (a) Foreground-background imbalance problem in object detection. (b) Imbalance problem among object categories. (Figure source: [Oksuz et al., 2021](https://arxiv.org/abs/1909.00169)).
+    <i>Figure 1: Many problems in practice exhibit strong imbalance towards certain classes or categories, which can severely impact learning performance. (a) Foreground-background imbalance problem in object detection. (b) Imbalance problem among object categories. (Figure source: [Oksuz et al., 2021](https://arxiv.org/abs/1909.00169)).</i>
 </p>
 
 -----
@@ -117,7 +116,7 @@ DENGE is a project supported by [TUBITAK](http://tubitak.gov.tr/) as a two-year 
 | Project No    | 120E494     |
 | Project Type | [ARDEB-1001](https://www.tubitak.gov.tr/tr/destekler/akademik/ulusal-destek-programlari/icerik-1001-bilimsel-ve-teknolojik-arastirma-projelerini-destekleme-pr) | 
 | Budget          | ~ TRY 340K (~ $ 45K) |
-| Coordinators | [Sinan Kalkan](http://ceng.metu.edu.tr/~skalkan/) [METU Image Lab, Dept. of Computer Eng., METU]  and [Emre Akbas](http://ceng.metu.edu.tr/~emre/) [METU Image Lab, Dept. of Computer Eng., METU]   |
+| Coordinators | Emre Akbas](http://ceng.metu.edu.tr/~emre/) [METU Image Lab, Dept. of Computer Eng., METU] and [Sinan Kalkan](http://ceng.metu.edu.tr/~skalkan/) [METU Image Lab, Dept. of Computer Eng., METU]  |
 | Researchers | [Kemal Oksuz](https://kemaloksuz.github.io/) [METU Image Lab, Dept. of Computer Eng., METU] |
 | Students    | Zeynep Sonat Baltaci, Baris Can Cam, Gunes Cepic, Ece Gokcay, Baran Gulmez, Ertugrul Gungor, Feyza Yavuz |
 
@@ -149,4 +148,4 @@ The list of publications (from DENGE and its precursor project):
 
 ### <tag id=contact>Contact</tag> 
 
-Please use the following email address for course related issues: metu-kalfa [@] googlegroups [dot] com
+Please use the following email address for course related issues: metu-denge [@] googlegroups [dot] com
