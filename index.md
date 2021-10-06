@@ -103,7 +103,8 @@ nav.fill ul li a {
 ------
 
 <p align="center">
-    <img src="./visuals/YunusUR5.png" width="100%">
+    <img src="./visuals/dengesizlik_plot.png" width="100%">
+    Figure 1: Many problems in practice exhibit strong imbalance towards certain classes or categories, which can severely impact learning performance. (a) Foreground-background imbalance problem in object detection. (b) Imbalance problem among object categories. (Figure source: [Oksuz et al., 2021](https://arxiv.org/abs/1909.00169)).
 </p>
 
 -----
