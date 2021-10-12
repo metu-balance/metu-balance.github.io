@@ -109,13 +109,14 @@ nav.fill ul li a {
 -----
 ### <tag id="wid">What is DENGE?</tag>
 
-DENGE is a project supported by [TUBITAK](http://tubitak.gov.tr/) as a two-year project (2020-2023) for developing better methods for addressing imbalance problems. The project is being conducted at [METU Image Lab, Dept. of Computer Eng., METU](https://image.ceng.metu.edu.tr). It builds on the team's experience on and extends the results of the team's previous project entitled "Object Detection in Videos with Deep Neural Networks" (funded by [TUBITAK](http://tubitak.gov.tr/) with no 117E054).
+DENGE is a project supported by [TUBITAK](http://tubitak.gov.tr/) as a two-year project (2021-2023) for developing better methods for addressing imbalance problems. The project is being conducted at [METU Image Lab, Dept. of Computer Eng., METU](https://image.ceng.metu.edu.tr). It builds on the team's experience on and extends the results of the team's previous project entitled "Object Detection in Videos with Deep Neural Networks" (funded by [TUBITAK](http://tubitak.gov.tr/) with no 117E054).
 
 | <!-- -->      | <!-- --> |
 | ------------- | -------- |
 | Project No    | 120E494     |
 | Project Type | [ARDEB-1001](https://www.tubitak.gov.tr/tr/destekler/akademik/ulusal-destek-programlari/icerik-1001-bilimsel-ve-teknolojik-arastirma-projelerini-destekleme-pr) | 
 | Budget          | ~ TRY 340K (~ $ 45K) |
+| Dates           | 1 March 2021 - 1 March 2023 | 
 | Coordinators | Emre Akbas](http://ceng.metu.edu.tr/~emre/) [METU Image Lab, Dept. of Computer Eng., METU] and [Sinan Kalkan](http://ceng.metu.edu.tr/~skalkan/) [METU Image Lab, Dept. of Computer Eng., METU]  |
 | Researchers | [Kemal Oksuz](https://kemaloksuz.github.io/) [METU Image Lab, Dept. of Computer Eng., METU] |
 | Students    | Zeynep Sonat Baltaci, Baris Can Cam, Gunes Cepic, Ece Gokcay, Baran Gulmez, Ertugrul Gungor, Feyza Yavuz |
