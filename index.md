@@ -119,7 +119,7 @@ DENGE is a project supported by [TUBITAK](http://tubitak.gov.tr/) as a two-year 
 | Dates           | 1 March 2021 - 1 March 2023 | 
 | Coordinators | Emre Akbas](http://ceng.metu.edu.tr/~emre/) [METU Image Lab, Dept. of Computer Eng., METU] and [Sinan Kalkan](http://ceng.metu.edu.tr/~skalkan/) [METU Image Lab, Dept. of Computer Eng., METU]  |
 | Researchers | [Kemal Oksuz](https://kemaloksuz.github.io/) [METU Image Lab, Dept. of Computer Eng., METU] |
-| Students    | Zeynep Sonat Baltaci, Baris Can Cam, Gunes Cepic, Ece Gokcay, Baran Gulmez, Ertugrul Gungor, Feyza Yavuz |
+| Students    | Zeynep Sonat Baltaci, Baris Can Cam, Gunes Cepic, Sinem Donmez, Cagri Eser, Ece Gokcay, Baran Gulmez, Ertugrul Gungor, Fehmi Kahraman, Berkin Kerim Konar, Selim Kuzucu, Alpay Ozkan, Kivanc Tezoren, Feyza Yavuz |
 
 
 ### <tag id="summary">Summary</tag> 
